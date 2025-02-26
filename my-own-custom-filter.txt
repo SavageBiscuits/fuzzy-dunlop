@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version:
+! Title: CustomList
+! Last modified:
+! Expires:
+! Homepage:
+!
+reddit.com##.promotedlink
