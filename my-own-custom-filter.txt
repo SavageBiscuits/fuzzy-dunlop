@@ -5,4 +5,4 @@
 ! Expires:
 ! Homepage:
 !
-reddit.com##.promotedlink
+reddit.com##.promoted
